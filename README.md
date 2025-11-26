@@ -3,11 +3,13 @@ Pozdravljeni, moje ime je Leon Haziri in sem iz Nove Gorice. Po narodnosti sem A
 Za ta program sem se odločil, ker me zelo zanima programiranje in mislim, da v prihodnosti se bom zaposlil pri uspešnem podjetju ali pa ustvaril svoje.
 
 Do sedaj sem se naučil:  
+  
 -Java(osnove, 1D in 2D tabele, uporaba StringBufferja, upporaba splita())  
 -html in css(ustvarjanja forma, uporaba div-a, tabele in ostale osnovne funkcije)  
 -SQL(smo se komaj nazadnje lotili)  
 _________________________________________________________________________________  
 Rad bi se še naučil:  
+  
 -LUA  
 -Python  
 -C++  
