@@ -15,7 +15,7 @@ Do sedaj sem se naučil:
   - uporaba div-a 
   - tabele
   - osnovne funkcije
-- SQL
+- Linux fundementals
 _________________________________________________________________________________  
 Rad bi se še naučil:  
   
