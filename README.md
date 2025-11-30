@@ -1,5 +1,5 @@
 ## Opis sebe 👋
-Moje ime je Leon Haziri in sem iz Nove Gorice. Po narodnosti sem Albanec in sem na šolskem centru Nova Gorica. Moja izobrazba je tehhnik računalništva in sedaj sem 3.letnik😊.
+Moje ime je Leon Haziri in sem iz Nove Gorice. Sem na šolskem centru Nova Gorica in moja izobrazba je tehhnik računalništva in sedaj sem 3.letnik😊.
 Za ta program sem se odločil, ker me zelo zanima programiranje in mislim, da v prihodnosti se bom zaposlil pri uspešnem podjetju ali pa ustvaril svoje.
 
 Do sedaj sem se naučil:  
