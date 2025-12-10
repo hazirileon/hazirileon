@@ -32,3 +32,6 @@ Za tutorial, kako narediti README.md:
 
 [tutorial](https://www.youtube.com/watch?v=eJojC3lSkwg) <--
 
+Moja predstavitev je:
+
+[Canva](https://www.canva.com/design/DAG61VtE1RI/nXyA68a6dgw7Pdn9yYlVHw/edit?utm_content=DAG61VtE1RI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <--
