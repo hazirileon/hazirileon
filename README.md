@@ -26,12 +26,12 @@ Rad bi se še naučil:
 
 Za dostop do mojega profila klinite na to poevzavo:
 
-[hazirileon/profile](https://github.com/hazirileon) <--
+[hazirileon/profile](https://github.com/hazirileon) ←
 
 Za tutorial, kako narediti README.md:
 
-[tutorial](https://www.youtube.com/watch?v=eJojC3lSkwg) <--
+<a href="https://www.youtube.com/watch?v=eJojC3lSkwg" target="_blank">Tutorial</a> ←
 
 Moja predstavitev je:
 
-[Canva](https://www.canva.com/design/DAG61VtE1RI/nXyA68a6dgw7Pdn9yYlVHw/edit?utm_content=DAG61VtE1RI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) <--
+<a href="https://www.canva.com/design/DAG61VtE1RI/nXyA68a6dgw7Pdn9yYlVHw/edit?utm_content=DAG61VtE1RI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Canva</a> ←
